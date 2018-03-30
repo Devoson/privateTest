@@ -1,0 +1,19 @@
+{
+  "name": "privatetest",
+  "version": "1.0.0",
+  "description": "NPM私有库测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devoson/privateTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devoson/privateTest/issues"
+  },
+  "homepage": "https://github.com/Devoson/privateTest#readme"
+}
